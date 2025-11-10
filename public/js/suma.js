@@ -1,3 +1,4 @@
+//JavaScript para sumar dos numeros hecho por Bárbara Rodas
 // capturar valores de caja de texto
 let num_uno = document.getElementById("num1");
 let num_dos = document.getElementById("num2");
