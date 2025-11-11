@@ -1,4 +1,4 @@
-
+// Boton creado por kevin shagñay
 document.addEventListener("DOMContentLoaded", function () {
 
     const btnLimpiar = document.getElementById("btnLimpiar");
