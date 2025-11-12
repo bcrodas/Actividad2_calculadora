@@ -1,4 +1,4 @@
-// division.js - Script para realizar operaciones de división
+// division.js - Script para realizar operaciones de división por Isaac 
 document.addEventListener('DOMContentLoaded', function() {
     const btnDividir = document.getElementById('btnDividir');
     
